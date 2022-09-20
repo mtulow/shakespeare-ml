@@ -5,4 +5,4 @@ Article: [link](https://medium.com/@sgt101/using-text-embeddings-and-approximate
 
 
 #### Schematic Diagram:
-![](#./images/scheme.png)
+![](#./images/schematic.png)
