@@ -5,4 +5,6 @@ Article: [link](https://medium.com/@sgt101/using-text-embeddings-and-approximate
 
 
 #### Schematic Diagram:
-![](#./images/schematic.png)
+![](https://github.com/mtulow/shakespeare-ml/blob/main/images/schematic.png)
+
+
